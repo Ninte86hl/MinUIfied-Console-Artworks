@@ -1,8 +1,7 @@
 MinUIfied-Console-Artworks
 
-All images were created using AI for personal enjoyment.
-
-Since I'm a passionate gamer in my free time, I've tried to cover a wide range of consoles.
+Hey...
+Since I like the minUI and its simplicity, I thought I'd create some artwork using AI. I've uploaded it to GitHub hoping someone will like it. Feel free to use it. I don't know exactly how I'll use this artwork yet, but I hope you can come up with some ideas. I have very little experience with image editing, so please don't criticize me if they're not perfect. All I can say is... I like them, and for a noob like me, they turned out relatively well.
 
 
 Black (640x480) with Logo:
